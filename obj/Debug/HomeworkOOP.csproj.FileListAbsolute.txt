@@ -1,0 +1,22 @@
+C:\Users\PC\Desktop\c# projects\HomeworkOOP\HomeworkOOP\bin\Debug\HomeworkOOP.exe.config
+C:\Users\PC\Desktop\c# projects\HomeworkOOP\HomeworkOOP\bin\Debug\HomeworkOOP.exe
+C:\Users\PC\Desktop\c# projects\HomeworkOOP\HomeworkOOP\bin\Debug\HomeworkOOP.pdb
+C:\Users\PC\Desktop\c# projects\HomeworkOOP\HomeworkOOP\obj\Debug\HomeworkOOP.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\c# projects\HomeworkOOP\HomeworkOOP\obj\Debug\HomeworkOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\c# projects\HomeworkOOP\HomeworkOOP\obj\Debug\HomeworkOOP.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\c# projects\HomeworkOOP\HomeworkOOP\obj\Debug\HomeworkOOP.exe
+C:\Users\PC\Desktop\c# projects\HomeworkOOP\HomeworkOOP\obj\Debug\HomeworkOOP.pdb
+C:\Users\User01\Downloads\HomeworkOOP\HomeworkOOP\bin\Debug\HomeworkOOP.exe.config
+C:\Users\User01\Downloads\HomeworkOOP\HomeworkOOP\obj\Debug\HomeworkOOP.exe
+C:\Users\User01\Downloads\HomeworkOOP\HomeworkOOP\obj\Debug\HomeworkOOP.pdb
+C:\Users\User01\Downloads\HomeworkOOP\HomeworkOOP\obj\Debug\HomeworkOOP.csprojResolveAssemblyReference.cache
+C:\Users\User01\Downloads\HomeworkOOP\HomeworkOOP\bin\Debug\HomeworkOOP.exe
+C:\Users\User01\Downloads\HomeworkOOP\HomeworkOOP\bin\Debug\HomeworkOOP.pdb
+C:\Users\Teacher\OneDrive - Министерство на образованието и науката\Работен плот\HomeworkOOP\HomeworkOOP\bin\Debug\HomeworkOOP.exe.config
+C:\Users\Teacher\OneDrive - Министерство на образованието и науката\Работен плот\HomeworkOOP\HomeworkOOP\bin\Debug\HomeworkOOP.exe
+C:\Users\Teacher\OneDrive - Министерство на образованието и науката\Работен плот\HomeworkOOP\HomeworkOOP\bin\Debug\HomeworkOOP.pdb
+C:\Users\Teacher\OneDrive - Министерство на образованието и науката\Работен плот\HomeworkOOP\HomeworkOOP\obj\Debug\HomeworkOOP.csproj.AssemblyReference.cache
+C:\Users\Teacher\OneDrive - Министерство на образованието и науката\Работен плот\HomeworkOOP\HomeworkOOP\obj\Debug\HomeworkOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teacher\OneDrive - Министерство на образованието и науката\Работен плот\HomeworkOOP\HomeworkOOP\obj\Debug\HomeworkOOP.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\OneDrive - Министерство на образованието и науката\Работен плот\HomeworkOOP\HomeworkOOP\obj\Debug\HomeworkOOP.exe
+C:\Users\Teacher\OneDrive - Министерство на образованието и науката\Работен плот\HomeworkOOP\HomeworkOOP\obj\Debug\HomeworkOOP.pdb
